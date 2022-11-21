@@ -1,4 +1,4 @@
-from jenplane_backend.adapters.output.mongo_db import MongoConnectionProvider
+from jenplane_backend.adapters.output.mongodb.mongo_db import MongoConnectionProvider
 
 
 def test_happy_path():
